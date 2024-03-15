@@ -1,6 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+    background-image: url(cezar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 textarea {
