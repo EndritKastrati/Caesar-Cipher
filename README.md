@@ -1,1 +1,3 @@
-# Caesar-Cipher
+Caesar Cipher është një teknikë e thjeshtë e kriptimit që përdor një shifër(qels) të vetëm për të zhvendosur secilin karakter në plaintext për një interval të caktuar. Për shembull ne alfabetin anglez, nëse shifra/qelsi është 3, karakteri 'A' do të zëvendësohet me 'D', 'B' me 'E', 'C' me 'F', dhe kështu me radhë. Kështu, plaintext-i "HELLO" do të kthehet në ciphertext-in "KHOOR" dhe anasjelltas për dekriptim.
+
+Endrit Kastrati
